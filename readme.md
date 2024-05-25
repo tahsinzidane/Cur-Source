@@ -77,7 +77,7 @@ rename the `/american-football.css` to `/pen.css`
 - pokemon <br> <img src="./icons/pokemon.png"> 
 - real-madrid <br> <img src="./icons/real-madrid.png"> 
 - sniper-gun <br> <img src="./icons/sniper-gun.png"> 
-- trollface <br> <img src="./icons/trollface.png"> 
+- troll-face <br> <img src="./icons/trollface.png"> 
 - pencil <br> <img src="./icons/pencil.png"> 
 - simpson <br> <img src="./icons/simpson.png"> 
 - pizza <br> <img src="./icons/pizza.png"> 
@@ -89,7 +89,7 @@ rename the `/american-football.css` to `/pen.css`
 - tv-remote <br> <img src="./icons/tv-remote.png"> 
 - light <br> <img src="./icons/light.png"> 
 - tree <br> <img src="./icons/tree.png"> 
-- monkas <br> <img src="./icons/monkas.png"> 
+- mokas <br> <img src="./icons/monkas.png"> 
 - american-football <br> <img src="./icons/american-football.png"> 
 - apple <br> <img src="./icons/apple.png"> 
 - arsenal <br> <img src="./icons/arsenal.png"> 
